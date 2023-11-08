@@ -1,0 +1,34 @@
+## Module 2 | Week 1| Regression Analysis Part 1
+
+- https://docs.google.com/spreadsheets/d/1_uxTmmM430q4SHWYHMw6Dxo7y_-Wn07EpvegEczyEBc/edit?usp=sharing
+- refer the above link for the schedule
+- flip class room model,
+  - every week 1.5 to 2 hrs of content
+- 2 one to one sessions per week
+
+- module 2 covers (4 weeks)
+  - Supervised 
+  - Unsupervised  
+- In week 1 , we are going to touch on  (Regressions)
+  - Simple regression
+  - Multinomial regression
+  - Polynomial regression
+  - Regularized regression
+  - and their applications
+- In week 2 , we are going to cover (Classification)
+  - Logistic regression
+  - KNN
+  - Naive Bias,
+  - SVM
+  - other model building pipelines , Basically testing, validation and Hyperparameter tuning
+- In week 3, we are gonna look at tree based algos
+  - Decision Trees
+  - Random Forest
+  - Adaboost
+  - Gradient Boost
+  - XG Boost
+- In week 4 , we shall do unsupervised Learning
+- In week 5 - Module 2 Capstone Project
+- In week 6
+  - neural networks
+  - 
